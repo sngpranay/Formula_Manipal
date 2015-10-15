@@ -1,2 +1,2 @@
 # Formula_Manipal
-Code for the Pneumatic Shifter on Formula Manipal X3
+Code and design docs for the Pneumatic Shifter on Formula Manipal X3
